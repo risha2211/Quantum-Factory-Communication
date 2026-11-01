@@ -1,0 +1,4 @@
+mean_photons_per_symbol,parameters_block_size,parameters_mean_photons_per_symbol,parameters_background_photons_per_mode,parameters_trials_per_codeword,parameters_mean_photons_per_block,conventional_ber,jdr_ber,conventional_codeword_error_rate,jdr_codeword_error_rate,conventional_mutual_information,jdr_mutual_information,conventional_pie,jdr_pie
+0.1,8,0.1,0,2000,0.8,0.2786458333333333,0.22425,0.4808125,0.392,0.7093272067099651,0.9361013817472836,0.8866590083874563,1.1701267271841045
+0.5,8,0.5,0,2000,4.0,0.03945833333333333,0.009333333333333334,0.0674375,0.0154375,2.502358782745586,2.844110583367946,0.6255896956863966,0.7110276458419865
+1.0,8,1.0,0,2000,8.0,0.003625,0.000125,0.006,0.00025,2.9384972218467578,2.997022654852632,0.3673121527308447,0.374627831856579
